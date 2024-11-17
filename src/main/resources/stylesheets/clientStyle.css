@@ -1,0 +1,13 @@
+.text-area {
+    -fx-control-inner-background: #a5dbe6;
+    -fx-background-color: #a5dbe6;
+    -fx-text-box-border: transparent;
+    -fx-background-insets: 0;
+    -fx-border-width: 0;
+    -fx-border-color: transparent;
+    -fx-blend-mode: SRC_OVER;
+}
+
+#searchText {
+    -fx-prompt-text-fill: black;
+}
